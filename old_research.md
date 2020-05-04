@@ -1,6 +1,6 @@
 ---
 layout: default
-title: research
+title: previous research
 permalink: /old_research/
 ---
 # Previous work
