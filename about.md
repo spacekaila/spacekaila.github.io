@@ -17,7 +17,7 @@ I was a student at [Virginia Space Grant Consortium's](https://vsgc.odu.edu/) (V
 
 I was a VSGC intern for VSCS and [Virginia Earth Science Systems Scholars](https://vsgc.odu.edu/vesss/)
 
-I earned a Bachelor of Science in Physics, with minors in Mathematics and Astronomy, from [Virginia Tech Department of Physics](phys.vt.edu) in 2019
+I earned a Bachelor of Science in Physics, with minors in Mathematics and Astronomy, from [Virginia Tech Department of Physics](https://www.phys.vt.edu) in 2019
 
 I was a student, peer mentor, and supervising mentor in the [Orion Living Learning Community](https://llc.vt.edu/llc/orion.html) (then called Curie and Da Vinci)
 

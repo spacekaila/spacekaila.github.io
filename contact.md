@@ -7,6 +7,6 @@ permalink: /contact/
 
 email me at knathaniel [AT] astro [DOT] uni-bonn [DOT] de
 
-find my tweets [@spacekaila](twitter.com/spacekaila)
+find my tweets [@spacekaila](https://twitter.com/spacekaila)
 
 find my github [@lemonballoons](https://github.com/lemonballoons/)
