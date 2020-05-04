@@ -7,6 +7,9 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <p>{{site.position | escape -}}<br>
+        {{site.institute | escape -}}<br>
+        {{site.uni | escape -}}</p>
         <!--- <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -27,12 +30,11 @@
 
       <div class="footer-col footer-col-3">
         <!---<p>{{- site.description | escape -}}</p>--->
-        <p>{{site.position | escape -}}<br>
-        {{site.institute | escape -}}<br>
-        {{site.uni | escape -}}</p>
+        <i>Last tinkered with May 2020.</i><br>
+        The icon was made by <a href="https://goodstuffnononsense.com">Good Stuff No Nonsense</a> and is licensed with <a href="https://creativecommons.org/licenses/by/4.0/"> CC BY 4.0</a>.
+
       </div>
     </div>
-
   </div>
 
 </footer>
