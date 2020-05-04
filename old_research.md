@@ -1,8 +1,8 @@
 ---
 layout: default
 title: research
-permalink: /research/
+permalink: /old_research/
 ---
-# Research
+# Previous work
 
 Coming soon!

@@ -9,13 +9,13 @@ I'm a Native Hawaiian scientist with a passion for stars. I also love crunchy sn
 
 I've written a brief history below, but I want to stress that none of this would have been possible without the support of mentors that believed in me and challenged me. If you're in high school or undergrad and any of the below sounds interesting, but you're not sure how to find similar opportunities in your area, [let's work together](contact.md) and see what we can find!
 
-# Highlight Reel
+## Highlight Reel
 
 I was born and raised in Northern Virginia, outside Washington, D.C., in the United States
 
-I was a student at [Virginia Space Grant Consortium's (VSGC)](https://vsgc.odu.edu/) [Virginia Space Coast Scholars (VSCS)](https://vsgc.odu.edu/spacecoast/) and [Virginia Aerospace Science and Technology Scholars (VASTS)](https://vsgc.odu.edu/vasts/) programs
+I was a student at [Virginia Space Grant Consortium's](https://vsgc.odu.edu/) (VSGC) [Virginia Space Coast Scholars](https://vsgc.odu.edu/spacecoast/) (VSCS) and [Virginia Aerospace Science and Technology Scholars](https://vsgc.odu.edu/vasts/) programs
 
-I was a VSGC intern for VSCS and [Virginia Earth Science Systems Scholars (VESSS)](https://vsgc.odu.edu/vesss/)
+I was a VSGC intern for VSCS and [Virginia Earth Science Systems Scholars](https://vsgc.odu.edu/vesss/)
 
 I earned a Bachelor of Science in Physics, with minors in Mathematics and Astronomy, from [Virginia Tech Department of Physics](phys.vt.edu) in 2019
 
