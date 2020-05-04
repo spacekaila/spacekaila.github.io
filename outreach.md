@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Outreach
+title: outreach
 permalink: /outreach/
 ---
 Coming soon!
