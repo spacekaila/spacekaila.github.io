@@ -20,20 +20,36 @@
 
 title: Kaila Nathaniel
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  MSc Honors Astrophysics Student // Argelander Institute for Astronomy, University of Bonn
+description:
+  MSc Honors Astrophysics Student
+  Argelander Institut für Astronomie
+  University of Bonn
+
+position: MSc Honors Astrophysics Student
+institute: Argelander-Institut für Astronomie
+uni: Universität Bonn
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: spacekaila
 github_username:  lemonballoons
 
+#don't show posts on homepage
+show_excerpts: false
+
+#header pages
+header_pages:
+  - research.md
+  - outreach.md
+  - about.md
+  - cv.md
+  - contact.md
+
 # Build settings
-theme: jekyll-theme-cayman
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
-#github: [metadata] encoding: UTF-8 kramdown: input: GFM hard_wrap: false 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

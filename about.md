@@ -15,7 +15,7 @@ I was born and raised in Northern Virginia, outside Washington, D.C., in the Uni
 
 I was a student at [Virginia Space Grant Consortium's](https://vsgc.odu.edu/) (VSGC) [Virginia Space Coast Scholars](https://vsgc.odu.edu/spacecoast/) (VSCS) and [Virginia Aerospace Science and Technology Scholars](https://vsgc.odu.edu/vasts/) programs
 
-I was a VSGC intern for VSCS and [Virginia Earth Science Systems Scholars](https://vsgc.odu.edu/vesss/)
+I was a VSGC intern for VSCS and [Virginia Earth System Science Scholars](https://vsgc.odu.edu/vesss/)
 
 I earned a Bachelor of Science in Physics, with minors in Mathematics and Astronomy, from [Virginia Tech Department of Physics](https://www.phys.vt.edu) in 2019
 
