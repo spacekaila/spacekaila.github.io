@@ -32,10 +32,13 @@ uni: Universität Bonn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: spacekaila
-github_username:  lemonballoons
+github_username:  spacekaila
 
 #don't show posts on homepage
 show_excerpts: false
+
+#permalink for posts
+permalink: /blog/:year/:month/:title/
 
 #header pages
 header_pages:
