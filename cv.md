@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 # CV
-Coming soon!
+View my CV in pdf form [here](assets/CV_20210225_online.pdf).

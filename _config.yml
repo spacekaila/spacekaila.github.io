@@ -43,7 +43,7 @@ permalink: /blog/:year/:month/:title/
 #header pages
 header_pages:
   - research.md
-  - outreach.md
+ # - outreach.md
   - about.md
   - cv.md
   - contact.md
