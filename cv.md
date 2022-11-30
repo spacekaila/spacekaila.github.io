@@ -4,4 +4,5 @@ title: CV
 permalink: /cv/
 ---
 # CV
-View my CV in pdf form [here](assets/CV_20210225_online.pdf).
+
+<object data="../assets/CV_online.pdf" width="1000" height="1000" type='application/pdf'></object>

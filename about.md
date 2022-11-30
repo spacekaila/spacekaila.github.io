@@ -5,11 +5,11 @@ permalink: /about/
 ---
 # About me
 
-<img src="/assets/portrait.jpg" alt="me" align="left" hspace="50" vspace="50" width="300px" />
+<img src="/assets/Nathaniel-Kaila.jpg" alt="me" align="left" hspace="50" vspace="10" width="300px" />
 
-I'm a Native Hawaiian scientist with a passion for stars. I was born and raised in the hustle and bustle of the DC area, moved to Appalachia for college, and then relocated to Germany for graduate school. I love cities, green space, and the adventure (and occasional frustration) of expat life.
+I'm a Native Hawaiian scientist with a passion for stars. I was born and raised in the hustle and bustle of the DC area, moved to Appalachia for college, relocated to Germany for my MSc, then came back to the US for my PhD in Western NY. I love cities, green space, and the adventure of living around the world.
 
-Other than research, I also love crunchy snacks, travel, yoga, running, reading, knitting, and making/appreciating all kinds of art. I'm learning German (and German bureaucracy!), although it's not going as fast as my landlord would like. I drink a lot of coffee and I love working at cafés (in pre-corona times).
+Other than research, I also love crunchy snacks, travel, yoga, running, reading, knitting, and making/appreciating all kinds of art. I learned German during my time abroad and nearly mastered German bureaucracy. I drink a lot of coffee and have strong opinions about the acceptable number of open tabs.
 
 I've written a brief history below and I want to stress that none of this would have been possible without the support of mentors that believed in me and challenged me. Scientists don't work alone, we have help every step of the way. If any of the below sounds interesting, but you could use some help getting started, [let's work together](/contact.md) and see what we can find!
 
@@ -27,4 +27,5 @@ I've written a brief history below and I want to stress that none of this would 
 * Interned with [ASRC Federal Space and Defense](https://www.asrcfederal.com/spaceanddefense), at [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard/)
 * [Sigma Pi Sigma](https://www.sigmapisigma.org/) member
 * Attended the [Advancing Theoretical Astrophysics](https://collectiveastronomy.github.io/advancingtheoastro/) 2019 summer school
-* Currently earning my Master of Science in Astrophysics from the [Bonn-Cologne Graduate School for Physics and Astronomy](http://www.gradschool.physics.uni-bonn.de/) at the [Argelander Institute for Astronomy](https://astro.uni-bonn.de/en) at the [University of Bonn](uni-bonn.de) in Germany
+* Earned my Master of Science in Astrophysics from the [Bonn-Cologne Graduate School for Physics and Astronomy](http://www.gradschool.physics.uni-bonn.de/) at the [Argelander Institute for Astronomy](https://astro.uni-bonn.de/en) at the [University of Bonn](uni-bonn.de) in Germany in 2022, advised by Norbert Langer
+* Currently working on my PhD at the [Center for Computational Relativity and Gravitation at Rochester Institute of Technology](https://ccrg.rit.edu).

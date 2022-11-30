@@ -1,0 +1,41 @@
+---
+---
+/* Override theme defaults */
+/* $base-font-family: HelveticaNeu;
+$brand-color: orange;
+ */$content-width:    850px;
+ $brand-color:      #19A2A5 !default;
+
+
+/* load _sass/minima.scss */
+@import "minima";
+
+/* Put any custom CSS here */
+
+/* h1 {
+  padding-bottom: 2px;
+  color: blue;
+} */
+
+ .site-title, .page-link{
+    &,
+  &:visited {
+        color:white ;
+      }
+}
+
+  .site-nav {
+    .page-link {
+        color: white;
+        }
+    
+  } 
+
+  .site-header{
+    background-color:$brand-color;
+    border-top:0px
+  }
+
+h1,h2,h3,h4,h5,h6{
+    color:#738484;
+}

@@ -21,13 +21,13 @@
 title: Kaila Nathaniel
 #email: your-email@example.com
 description:
-  MSc Honors Astrophysics Student
-  Argelander Institut für Astronomie
-  University of Bonn
+  PhD Student
+  Center for Computational Rativity and Gravitation
+  Rochester Institute of Technology
 
-position: MSc Honors Astrophysics Student
-institute: Argelander-Institut für Astronomie
-uni: Universität Bonn
+position: PhD Student
+institute: Astrophysical Sciences and Technology
+uni: Rochester Institute of Technology
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -52,6 +52,8 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
