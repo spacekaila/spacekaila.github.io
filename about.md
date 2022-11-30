@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # About me
 
-<img src="/assets/Nathaniel-Kaila.jpg" alt="me" align="left" hspace="50" vspace="10" width="300px" />
+<img src="/assets/Nathaniel-Kaila.JPG" alt="me" align="left" hspace="50" vspace="10" width="300px" />
 
 I'm a Native Hawaiian scientist with a passion for stars. I was born and raised in the hustle and bustle of the DC area, moved to Appalachia for college, relocated to Germany for my MSc, then came back to the US for my PhD in Western NY. I love cities, green space, and the adventure of living around the world.
 
