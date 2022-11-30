@@ -17,7 +17,7 @@ $brand-color: orange;
   color: blue;
 } */
 
- .site-title, .page-link{
+ .site-title{
     &,
   &:visited {
         color:white ;
@@ -28,12 +28,15 @@ $brand-color: orange;
     .page-link {
         color: white;
         }
-    
+    background-color: $brand-color;
+    border-color:$brand-color;
+    z-index: 10000000;
   } 
 
   .site-header{
     background-color:$brand-color;
-    border-top:0px
+    border-top:0px;
+    z-index:10000000;
   }
 
 h1,h2,h3,h4,h5,h6{
