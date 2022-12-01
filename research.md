@@ -25,7 +25,7 @@ My publications are listed on [ADS](https://ui.adsabs.harvard.edu/search/q=autho
 ## Undergraduate
 * At my home institution, Virginia Tech, I worked with John Simonetti to determine an upper limit on radio signal strength for the binary neutron star merger event that occured in August 2017. The (gigantic) paper, with over 3600 authors, can be seen [here](https://iopscience.iop.org/article/10.3847/2041-8213/aa91c9/meta).
 
-* I spent a winter break interning with ASRC Federal Space and Defense at NASA Goddard Flight Facility characterizing hardware for the [Nancy Grace Roman Space Telescope](https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope) (then called WFIRST).
+* I spent a winter break interning with ASRC Federal Space and Defense at NASA Goddard Flight Facility characterizing hardware for the [Nancy Grace Roman Space Telescope](https://www.nasa.gov/content/goddard/nancy-grace-roman-space-telescope) (then called WFIRST).
 
 * I was selected for the Caltech LIGO SURF program and spent the summer working in Rana X. Adhikari's group with Brittany Kamai studying seismic metamaterials and their potential application to LIGO.
 
