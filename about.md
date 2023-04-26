@@ -20,12 +20,16 @@ I've written a brief history below and I want to stress that none of this would 
 * [Virginia Space Grant Consortium](https://vsgc.odu.edu/) (VSGC) student at [Virginia Space Coast Scholars](https://vsgc.odu.edu/spacecoast/) (VSCS) and [Virginia Aerospace Science and Technology Scholars](https://vsgc.odu.edu/vasts/) programs
 * VSGC intern for VSCS and [Virginia Earth System Science Scholars](https://vsgc.odu.edu/vesss/)
 * Earned a Bachelor of Science in Physics (magna cum laude), with minors in Mathematics and Astronomy, from [Virginia Tech Department of Physics](https://www.phys.vt.edu) in 2019
-* Conducted undergraduate research at my home institution
-* Student, peer mentor, and supervising mentor in the [Orion Living Learning Community](https://llp.vt.edu/llc/orion.html) (then called Curie and Da Vinci)
-* Photo Editor of the [Collegiate Times](http://www.collegiatetimes.com/)
-* Conducted research at the [University of Birmingham](https://www.birmingham.ac.uk/schools/physics/index.aspx) and [California Institute of Technology](https://www.ligo.caltech.edu/) through [REU](https://www.nsf.gov/crssprgm/reu/) and [SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf) programs
-* Interned with [ASRC Federal Space and Defense](https://www.asrcfederal.com/markets/space/), at [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard/)
-* [Sigma Pi Sigma](https://www.sigmapisigma.org/) member
+    * Conducted undergraduate research at my home institution
+    * Student, peer mentor, and supervising mentor in the [Orion Living Learning Community](https://llp.vt.edu/llc/orion.html) (then called Curie and Da Vinci)
+    * Photo Editor of the [Collegiate Times](http://www.collegiatetimes.com/)
+    * Conducted research at the [University of Birmingham](https://www.birmingham.ac.uk/schools/physics/index.aspx) and [California Institute of Technology](https://www.ligo.caltech.edu/) through [REU](https://www.nsf.gov/crssprgm/reu/) and [SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf) programs
+    * Interned with [ASRC Federal Space and Defense](https://www.asrcfederal.com/markets/space/), at [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard/)
+    * [Sigma Pi Sigma](https://www.sigmapisigma.org/) member
 * Attended the [Advancing Theoretical Astrophysics](https://collectiveastronomy.github.io/advancingtheoastro/) 2019 summer school
-* Earned my Master of Science in Astrophysics from the [Bonn-Cologne Graduate School for Physics and Astronomy](http://www.gradschool.physics.uni-bonn.de/) at the [Argelander Institute for Astronomy](https://astro.uni-bonn.de/en) at the [University of Bonn](https://uni-bonn.de) in Germany in 2022, advised by Norbert Langer
-* Currently working on my PhD at the [Center for Computational Relativity and Gravitation at Rochester Institute of Technology](https://ccrg.rit.edu)
+* Earned my Master of Science in Astrophysics, advised by Norbert Langer, from the [Bonn-Cologne Graduate School for Physics and Astronomy](http://www.gradschool.physics.uni-bonn.de/) at the [Argelander Institute for Astronomy](https://astro.uni-bonn.de/en) at the [University of Bonn](https://uni-bonn.de) in Germany in 2022
+    * Part of the Bonn-Cologne Graduate School Honors program, which came with a 2 year stipend
+* Currently working on my PhD in Astrophysical Sciences and Technology (AST), advised by Richard O'Shaughnessy, at the [Center for Computational Relativity and Gravitation at Rochester Institute of Technology](https://ccrg.rit.edu)
+    * Awarded the Opportunity Fellowship by the joint partnership of New York Space Grant Consortium and AST
+    * Attending the 2023 [Kavli Summer Program in Astrophysics](https://kspa.soe.ucsc.edu/program), held at the Max Planck Institute for Astrophysics in Garching, Germany
+    * [LSSTC Data Science Fellow](https://www.lsstcorporation.org/lincc/fellowship_program), 2023 cohort

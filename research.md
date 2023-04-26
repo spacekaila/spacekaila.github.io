@@ -10,7 +10,7 @@ My publications are listed on [ADS](https://ui.adsabs.harvard.edu/search/q=autho
 ## Graduate
 
 ### Rochester Institute of Technology
-* I am working with Richard O'Shaughnessy to study common envelope models for supernova progenitors.
+* I am working with Richard O'Shaughnessy to study compact binary remnants from isolated binary evolution. In particular, I am studying common envelope models and supernova recoil kicks using population synthesis and evolutionary models.
 
 ### University of Bonn
 * For my thesis I worked with Norbert Langer to study massive single stars in the Milky Way. I used evolutionary models and population synthesis of single rotating stars at Galactic metallicity to investigate stellar spindown and envelope inflation in massive main sequence stars. I compared my results to a selection of stars from [The IACOB Project](http://research.iac.es/proyecto/iacob/pages/en/introduction.php), a long term spectroscopic study of Galactic OB stars. You can view my thesis [here](https://astro.uni-bonn.de/~nlanger/thesis/kaila-master.pdf).
@@ -29,4 +29,4 @@ My publications are listed on [ADS](https://ui.adsabs.harvard.edu/search/q=autho
 
 * I was selected for the Caltech LIGO SURF program and spent the summer working in Rana X. Adhikari's group with Brittany Kamai studying seismic metamaterials and their potential application to LIGO.
 
-* I spent a summer at the University of Birmingham, UK working with Ilya Mandel on chemically homogeneous evolution. The work was published in MNRAS and can be viewed [here](https://academic.oup.com/mnras/article/505/1/663/6273653).
+* I spent a summer at the University of Birmingham, UK working with Ilya Mandel (now at Monash University) on chemically homogeneous evolution. The work was published in MNRAS and can be viewed [here](https://academic.oup.com/mnras/article/505/1/663/6273653).
