@@ -4,14 +4,15 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-ruby "2.7.7"
+ruby "3.2.0"
 
 #gem "jekyll" 
 
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "github-pages", "~> 228", group: :jekyll_plugins
 
 gem "minima"
 
 gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
+gem "webrick"
