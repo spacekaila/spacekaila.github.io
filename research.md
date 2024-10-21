@@ -10,10 +10,14 @@ My publications are listed on [ADS](https://ui.adsabs.harvard.edu/search/q=autho
 ## Graduate
 
 ### Rochester Institute of Technology
-* I am working with Richard O'Shaughnessy to study compact binary remnants from isolated binary evolution. In particular, I am studying common envelope models and supernova recoil kicks using population synthesis and evolutionary models.
+* I am part of the [McFACTS](https://github.com/mcfacts) (and [here](https://saavikford.wixsite.com/saavik/general-7)) team, which is a new, open source, publicly available, comprehensive, population synthesis code for the active galactic nuclei (AGN) channel for LIGO-Virgo-KAGRA detectable mergers. It allows for rapid testing of binary black hole (BBH) merger properties across the AGN and nuclear star cluster parameter space. The code just launched and is under active, rapid development.
+
+* I spent the summer of 2023 at the Kavli Summer Program in Astrophysics working with [Alejandro Vigna Gómez](https://www.alejandrovignagomez.com) to study the rates and population demographics of Thorne-Żytkow objects (TŻOs), which are the hypothetical merger product of a star and a neutron star. They are predicted to look like an ordinary red supergiant on the surface, making them very hard to study! We have yet to observationally confirm a TŻO, but there are a few candidates. We used a synthetic population at solar metallicity to study TŻOs that form via the common envelope channel, which occurs when a non-degenerate star and a neutron star enter into a common envelope and merge. We found that 92% of TŻOs in our population had a rejuvenated donor, which means that the binary underwent a previous stable mass transfer episode onto the main sequence secondary. It is possible that rejuvenated stars have lower envelope binding energy, meaning that TŻO progenitors with rejuvenated donors may be more likely to eject their envelopes and form stripped binaries instead of TŻOs. We also predicted ≈5 TŻOs in the Milky Way, which is in line with previous estimates. We have submitted the paper to A&A and you can read the preprint [here](https://ui.adsabs.harvard.edu/abs/2024arXiv240711680N/abstract).
+
 
 ### University of Bonn
 * For my thesis I worked with Norbert Langer to study massive single stars in the Milky Way. I used evolutionary models and population synthesis of single rotating stars at Galactic metallicity to investigate stellar spindown and envelope inflation in massive main sequence stars. I compared my results to a selection of stars from [The IACOB Project](http://research.iac.es/proyecto/iacob/pages/en/introduction.php), a long term spectroscopic study of Galactic OB stars. You can view my thesis [here](https://astro.uni-bonn.de/~nlanger/thesis/kaila-master.pdf).
+
 * Before starting my thesis, I spent two semesters studying Wolf Rayet stars in both the Large and Small Magellanic Clouds with Abel Schootemeijer. In the SMC, I was studying the parameters required for potential binary progenitors to WR stars traveling at unusually high speeds. For the LMC, I was focused on whether chemically homogeneous evolution could explain some observed LMC WR stars.
 
 &nbsp; 
@@ -23,10 +27,10 @@ My publications are listed on [ADS](https://ui.adsabs.harvard.edu/search/q=autho
 &nbsp; 
 
 ## Undergraduate
-* At my home institution, Virginia Tech, I worked with John Simonetti to determine an upper limit on radio signal strength for the binary neutron star merger event that occured in August 2017. The (gigantic) paper, with over 3600 authors, can be seen [here](https://iopscience.iop.org/article/10.3847/2041-8213/aa91c9/meta).
+* At my home institution, Virginia Tech, I worked with John Simonetti to determine an upper limit on radio signal strength for the binary neutron star merger event that occured in August 2017. The (gigantic) paper, with over 3600 authors, can be seen [here](https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A/abstract).
+
+* I spent a summer at the University of Birmingham, UK working with Ilya Mandel (now at Monash University) on chemically homogeneous evolution. We found that chemically homogenous evolution could be the source of up to 70% of BBH mergers detected by LIGO. The work was published in MNRAS and can be viewed [here](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505..663R/abstract).
 
 * I spent a winter break interning with ASRC Federal Space and Defense at NASA Goddard Flight Facility characterizing hardware for the [Nancy Grace Roman Space Telescope](https://www.nasa.gov/content/goddard/nancy-grace-roman-space-telescope) (then called WFIRST).
 
 * I was selected for the Caltech LIGO SURF program and spent the summer working in Rana X. Adhikari's group with Brittany Kamai studying seismic metamaterials and their potential application to LIGO.
-
-* I spent a summer at the University of Birmingham, UK working with Ilya Mandel (now at Monash University) on chemically homogeneous evolution. The work was published in MNRAS and can be viewed [here](https://academic.oup.com/mnras/article/505/1/663/6273653).

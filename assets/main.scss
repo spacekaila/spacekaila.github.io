@@ -25,6 +25,10 @@ $brand-color: orange;
       }
 }
 
+a:visited {
+  color: $brand-color;
+}
+
   .site-nav {
     .page-link {
         color: white;

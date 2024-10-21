@@ -11,25 +11,16 @@ I'm a Native Hawaiian scientist with a passion for stars. I was born and raised 
 
 Other than research, I also love crunchy snacks, travel, yoga, running, reading, knitting, and making/appreciating all kinds of art. I learned German during my time abroad and nearly mastered German bureaucracy. I drink a lot of coffee and have strong opinions about the acceptable number of open tabs.
 
-I've written a brief history below and I want to stress that none of this would have been possible without the support of mentors that believed in me and challenged me. Scientists don't work alone, we have help every step of the way. If any of the below sounds interesting, but you could use some help getting started, [let's work together](/contact.md) and see what we can find!
+I've written a brief list of resources and programs that have helped me along the way. Scientists don't work alone, and I am here doing science because of mentors that believe in me and challenge me. If you need some help getting started with any of the below, [let's work together](/contact.md) and see what we can find!
 
 
-## Highlight Reel
+## Resources
 
-* Born and raised in Northern Virginia, outside Washington, D.C., in the United States
-* [Virginia Space Grant Consortium](https://vsgc.odu.edu/) (VSGC) student at [Virginia Space Coast Scholars](https://vsgc.odu.edu/spacecoast/) (VSCS) and [Virginia Aerospace Science and Technology Scholars](https://vsgc.odu.edu/vasts/) programs
-* VSGC intern for VSCS and [Virginia Earth System Science Scholars](https://vsgc.odu.edu/vesss/)
-* Earned a Bachelor of Science in Physics (magna cum laude), with minors in Mathematics and Astronomy, from [Virginia Tech Department of Physics](https://www.phys.vt.edu) in 2019
-    * Conducted undergraduate research at my home institution
-    * Student, peer mentor, and supervising mentor in the [Orion Living Learning Community](https://llp.vt.edu/llc/orion.html) (then called Curie and Da Vinci)
-    * Photo Editor of the [Collegiate Times](http://www.collegiatetimes.com/)
-    * Conducted research at the [University of Birmingham](https://www.birmingham.ac.uk/schools/physics/index.aspx) and [California Institute of Technology](https://www.ligo.caltech.edu/) through [REU](https://www.nsf.gov/crssprgm/reu/) and [SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf) programs
-    * Interned with [ASRC Federal Space and Defense](https://www.asrcfederal.com/markets/space/), at [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard/)
-    * [Sigma Pi Sigma](https://www.sigmapisigma.org/) member
-* Attended the [Advancing Theoretical Astrophysics](https://collectiveastronomy.github.io/advancingtheoastro/) 2019 summer school
-* Earned my Master of Science in Astrophysics, advised by Norbert Langer, from the [Bonn-Cologne Graduate School for Physics and Astronomy](http://www.gradschool.physics.uni-bonn.de/) at the [Argelander Institute for Astronomy](https://astro.uni-bonn.de/en) at the [University of Bonn](https://uni-bonn.de) in Germany in 2022
-    * Part of the Bonn-Cologne Graduate School Honors program, which came with a 2 year stipend
-* Currently working on my PhD in Astrophysical Sciences and Technology (AST), advised by Richard O'Shaughnessy, at the [Center for Computational Relativity and Gravitation at Rochester Institute of Technology](https://ccrg.rit.edu)
-    * Awarded the Opportunity Fellowship by the joint partnership of New York Space Grant Consortium and AST
-    * Attending the 2023 [Kavli Summer Program in Astrophysics](https://kspa.soe.ucsc.edu/program), held at the Max Planck Institute for Astrophysics in Garching, Germany
-    * [LSSTC Data Science Fellow](https://www.lsstcorporation.org/lincc/fellowship_program), 2023 cohort
+* The [Virginia Space Grant Consortium](https://vsgc.odu.edu/) runs some really great programs for high school students, and has internship and scholarships for college students.
+* Living Learning Communities can be a really great experience for undergraduate students. I really enjoyed my time in [Orion](https://llp.vt.edu/llc/orion.html) while at Virginia Tech.
+* [Sigma Pi Sigma](https://www.sigmapisigma.org) is an honor society for physics students.
+* [Research Experiences for Undergraduates](https://new.nsf.gov/funding/initiatives/reu) are a wonderful way to get research experience outside of your home institution while an undergraduate. There are [similar programs](https://sfp.caltech.edu/undergraduate-research/programs/surf) not funded by the NSF as well (i.e., not always requiring US citizenship).
+* [NASA internships](https://www.nasa.gov/learning-resources/internship-programs/) are also a great way to get research experience (for undergraduate and graduate students).
+* The [Honors branch](https://www.thp.uni-koeln.de/Webite_BCGS_2014/BCGS_Website/index/index.html#H2) of the Bonn-Cologne Graduate School of Physics and Astronomy is one of the few places you can get full funding as an MSc student in Europe.
+* The [Kavli Summer Program in Astrophysics](https://kspa.soe.ucsc.edu/program) is similar to an REU, but for PhD students.
+* The [LSSTC Data Science Fellowship](https://www.lsstcorporation.org/lincc/fellowship_program) has taught me a ton about data science, programming, and computational astrophysics.
