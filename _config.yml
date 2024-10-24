@@ -31,8 +31,10 @@ uni: Rochester Institute of Technology
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+bluesky_username: spacekaila.bsky.social
 twitter_username: spacekaila
 github_username:  spacekaila
+#pinterest_username: test
 
 #don't show posts on homepage
 show_excerpts: false

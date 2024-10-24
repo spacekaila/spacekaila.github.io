@@ -11,6 +11,8 @@ Undergrads: figuring out grad school, research, the dreaded application essays, 
 
 email me at kjn9240 [AT] rit [DOT] edu
 
-find my tweets [@spacekaila](https://twitter.com/spacekaila)
+bluesky [@spacekaila.bsky.social](https://bsky.app/profile/spacekaila.bsky.social)
 
-find my github [@spacekaila](https://github.com/spacekaila/)
+twitter [@spacekaila](https://twitter.com/spacekaila)
+
+github [@spacekaila](https://github.com/spacekaila/)
