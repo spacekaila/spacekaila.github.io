@@ -5,7 +5,7 @@ permalink: /
 ---
 # Home
 
-I'm looking for a postdoc! See my CV [here](cv.md) and email me [here](contact.md)!
+I'm looking for my next adventure! See my CV [here](cv.md) and email me [here](contact.md)!
 
 I am a PhD candidate in [Astrophysical Sciences and Technology](https://www.rit.edu/study/astrophysical-sciences-and-technology-phd) at the [Center for Computational Relativity and Gravitation](https://ccrg.rit.edu) at [Rochester Institute of Technology](https://www.rit.edu). I work in Professor Richard O'Shaughnessy's [group](https://ccrgpages.rit.edu/~oshaughn/Richard_OShaughnessy/Home.html) studying massive stars using tools like [McFACTS](https://github.com/mcfacts) (and [here](https://saavikford.wixsite.com/saavik/general-7), I'm also one of the lead developers!), [COMPAS](https://compas.science), and [MESA](https://mesastar.org).
 

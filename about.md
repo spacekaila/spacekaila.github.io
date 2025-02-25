@@ -7,7 +7,7 @@ permalink: /about/
 
 <img src="/assets/Nathaniel-Kaila.JPG" alt="me" align="left" hspace="50" vspace="10" width="300px" />
 
-I'm a Native Hawaiian scientist with a passion for stars. I was born and raised in the DC area, moved to Appalachia for college, relocated to Germany for my MSc, then moved to Western NY for my PhD. I'm looking for a postdoc and hoping to relocate somewhere just a tad bit warmer...
+I'm a Native Hawaiian scientist with a passion for stars. I was born and raised in the DC area, moved to Appalachia for college, relocated to Germany for my MSc, then moved to Western NY for my PhD. I'm looking for my next adventure and hoping to relocate somewhere just a tad bit warmer...
 
 Other than research, I also love crunchy snacks, travel, moving my body, reading, knitting, and making/appreciating all kinds of art. I learned German during my time abroad and nearly mastered German bureaucracy. I drink a lot of coffee and have strong opinions about the acceptable number of open tabs. I am perpetually looking for that one piece of productivity software that will magically fix everything, but I haven't found it yet.
 

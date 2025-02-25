@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-ruby "3.3.5"
+ruby "3.3.4"
 
 #gem "jekyll" 
 
