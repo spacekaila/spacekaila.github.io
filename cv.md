@@ -1,12 +1,19 @@
 ---
 layout: default
-title: CV
+title: CV/resume
 permalink: /cv/
 ---
-# CV
+# Resume and CV
 
-A shortened form of my CV is embedded below in PDF form. Feel free to [contact](/contact.md) me if you have any questions.
+My resume and CV are embedded below. Contact details can be found in the PDFs, or [here](/contact.md).
 
+## Resume
+
+<object data="../assets/Nathaniel_Resume_online.pdf" width="100%" height="1000" type='application/pdf' wmode="transparent" z-index=1></object>
+
+------
+
+## CV
 
 <object data="../assets/CV_online.pdf" width="100%" height="1000" type='application/pdf' wmode="transparent" z-index=1></object>
 
