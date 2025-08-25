@@ -1,0 +1,36 @@
+<div class="video-container-flex">
+  <div class="video-item">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id1 }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <div class="video-item">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id2 }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+<style>
+  .video-container-flex {
+    display: flex;
+    justify-content: space-around; /* Or space-between, center, etc. */
+    flex-wrap: wrap; /* Allows videos to wrap on smaller screens */
+  }
+  .video-item {
+    flex: 1; /* Allows items to grow and shrink */
+    min-width: 300px; /* Adjust as needed for smaller screens */
+    margin: 10px; /* Add some spacing between videos */
+  }
+  .video-item iframe {
+    width: 100%; /* Make iframes responsive within their container */
+    height: 315px; /* Maintain aspect ratio */
+    aspect-ratio: 16/9;
+  }
+
+    /* Responsive behavior for smaller screens */
+  @media (max-width: 768px) {
+    .video-container-flex {
+      flex-direction: column;
+    }
+    .video-item {
+      min-width: unset;
+    }
+  }
+</style>
