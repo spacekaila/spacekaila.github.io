@@ -21,19 +21,20 @@
 title: Kaila Nathaniel
 #email: your-email@example.com
 description:
-  PhD Student
+  Data Scientist | Astrophysics PhD
   Center for Computational Relativity and Gravitation
   Rochester Institute of Technology
 
-position: PhD Candidate
+position: Data Scientist | Astrophysics PhD
 institute: Astrophysical Sciences and Technology
 uni: Rochester Institute of Technology
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 bluesky_username: spacekaila.bsky.social
-twitter_username: spacekaila
+#twitter_username: spacekaila
 github_username:  spacekaila
+linkedin_username: kailanathaniel
 #pinterest_username: test
 
 #don't show posts on homepage
@@ -44,6 +45,7 @@ permalink: /blog/:year/:month/:title/
 
 #header pages
 header_pages:
+  - projects.md
   - research.md
  # - outreach.md
   - about.md
@@ -82,6 +84,5 @@ exclude:
    - assets/portrait.jpg
    - old_research.md
    - outreach.md
-   - projects.md
    - workflow.md
    - _posts/

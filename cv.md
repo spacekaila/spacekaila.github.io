@@ -1,11 +1,11 @@
 ---
 layout: default
-title: CV/resume
+title: Resume
 permalink: /cv/
 ---
 # Resume and CV
 
-My resume and CV are embedded below. Contact details can be found in the PDFs, or [here](/contact.md).
+My resume and CV are embedded below. Contact details can be found [here](/contact.md).
 
 ## Resume
 

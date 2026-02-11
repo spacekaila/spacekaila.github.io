@@ -7,14 +7,14 @@ permalink: /about/
 
 <img src="/assets/Nathaniel-Kaila.JPG" alt="me" align="left" hspace="50" vspace="10" width="300px" />
 
-I'm a Native Hawaiian scientist with a passion for stars. I was born and raised in the DC area, moved to Appalachia for college, relocated to Germany for my MSc, then moved to Western NY for my PhD. I'm looking for my next adventure and hoping to relocate somewhere with a bit less snow...
+I'm a Native Hawaiian data scientist with a passion for creative problem solving. I was born and raised in the DC area, moved to Appalachia for undergrad, relocated to Germany for my MSc, then arrived in Western New York for my PhD. I've been all over and I'm excited to relocate again!
 
-Other than research, I also love crunchy snacks, travel, moving my body, reading, knitting, and making/appreciating all kinds of art. I learned German during my time abroad and nearly mastered German bureaucracy. I drink a lot of coffee and have strong opinions about the acceptable number of open tabs. I am perpetually looking for that one piece of productivity software that will magically fix everything, but I haven't found it yet.
-
-I've written a brief list of resources and programs that have helped me along the way. Scientists don't work alone, and I am here doing science because of mentors that believe(d) in me and challenge(d) me. If you need some help getting started with any of the below, [let's work together](/contact.md) and see what we can find!
+I love puzzles of all kinds, from wordy to crafty. I am a Scrabble champ, a NYT Games aficionado (Spelling Bee anyone?), crossword fiend, and my most common complaint about a knitting project is "too easy". I have a Duolingo streak of 2300+ days and have now taken up watercolors. I broke my ankle bouldering, but I'm building up the nerve to try again.
 
 
-## Resources
+## Astrophysicists
+
+I've written a brief list of resources and programs that have helped me on my astrophysics journey. Scientists don't work alone, and I was able to do science because of mentors that believed in me and challenged me. If you need help getting started with any of the below, [let's work together](/contact.md) and see what we can find!
 
 * The [Virginia Space Grant Consortium](https://vsgc.odu.edu/) provides scholarships, fellowships, STEM programs, NASA summer academies, and more. Every state [has one](https://www.nasa.gov/learning-resources/national-space-grant-college-and-fellowship-project/consortium-directors/)!
 * Living Learning Communities can be a really great experience for undergraduate students. I really enjoyed my time in [Orion](https://llp.vt.edu/llc/orion.html) while at Virginia Tech.

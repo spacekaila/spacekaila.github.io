@@ -5,14 +5,34 @@ permalink: /contact/
 ---
 # Contact Details
 
-I love messages! I'm looking for my next challenge! Email me if you want to talk about jobs, space, academia, Germany, or a really good thriller you just read.
+I'm looking for data science and machine learning opportunities where I can turn data into meaningful insights and impact. If you're building something interesting or hiring for a data-focused role, I'd love to hear from you.
 
-Undergrads: figuring out grad school, research, the dreaded application essays, and everything else that goes along with academia is difficult, confusing, and occasionally terrifying. At least, it was for me. I definitely don't know all the answers, but I'm happy to answer any and all questions, just email me.
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/kailanathaniel) or through the form below.
 
-email me at kjn9240 [AT] rit [DOT] edu
+<form
+  action="https://formspree.io/f/mqedeqvv"
+  method="POST"
+>
+<p>
+    <label>Name</label><br>
+    <input type="text" name="name" required style="width: 50%;">
+  </p>
 
-bluesky [@spacekaila.bsky.social](https://bsky.app/profile/spacekaila.bsky.social)
+  <p>
+    <label>Email</label><br>
+    <input type="email" name="email" required style="width: 50%;">
+  </p>
 
-twitter [@spacekaila](https://twitter.com/spacekaila)
+  <p>
+    <label>Message</label><br>
+    <textarea name="message" rows="5" required style="width: 50%;"></textarea>
+  </p>
 
-github [@spacekaila](https://github.com/spacekaila/)
+  <p>
+    <button type="submit">Send</button>
+  </p>
+  </form>
+
+## Astrophysicists
+
+Figuring out grad school, application essays, advisor relationships, research, and everything else that goes along with academia is difficult, confusing, and occasionally terrifying. At least, it was for me. I definitely don't know all the answers, but I'm happy to answer any and all questions, just contact me.
