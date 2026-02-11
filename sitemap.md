@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: sitemap
+title: Sitemap
 permalink: /sitemap/
 mermaid: true
 ---
